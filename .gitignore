@@ -39,3 +39,5 @@ temp/
 # Coverage reports
 coverage.lcov
 test/coverage.lcov
+
+temporary/
